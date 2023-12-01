@@ -1,10 +1,6 @@
-utility_box.code-workspace
+vehicle-testing-project.code-workspace
 .vscode/
-myenv/
 __pycache__/
-test.py
+**/test.py
 batch_scripts/
-pdf_manipulations/test_result.csv
-pdf_manipulations/pdf_manipulator_app/backups
-pdf_manipulations/pdf_manipulator_app/generate_test_pdf.py
-myvenv/
+venv/
