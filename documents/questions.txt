@@ -1,0 +1,14 @@
+Could you please specify the range of the "level of aggressiveness" and how it quantitatively affects the demand speed?
+What types of data (e.g., vehicle parameters, environmental factors) can we expect to receive to inform the demand speed calculations?
+How does the "level of aggressiveness" correlate with actual driving behavior, and are there any thresholds or specific patterns that should be replicated by the software?
+What format should the interface of the developed software have? What are the requirements of the input and output of our systems?
+What are the performance metrics and accuracy requirements for the simulation in terms of matching the human-driven energy consumption data?
+Are there any specific compliance standards or regulations that the software needs to adhere to during development? If yes, which ones?
+Can you provide details on the vehicle parameters that should be considered when calculating the theoretical difference in energy consumption?
+Is it possible that you provide us with the initial datasets  for preliminary testing and calibration of our software?
+In terms of the operational concept, are there any specific requirements for logging, reporting, or user interaction that need to be incorporated into the software design?
+Is there a preference for the software to be platform-dependent or platform-independent, and do you have any requirements regarding the operating system or hardware?
+Are there any specific features or tools that the users would like to have within the software to analyze the results, such as data visualization or comparison tools?
+Will the software be integrated with other systems or databases, and if so, can you provide details on these systems for proper interface design?
+What are the key outputs you expect from the software following a simulation run, and in what formats (e.g., CSV, PDF reports, graphical displays)?
+How would you like the software to handle exceptions or out-of-bounds conditions during simulations?

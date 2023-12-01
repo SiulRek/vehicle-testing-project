@@ -1,0 +1,25 @@
+Hey, please help me with the vehicle-testing-project I am doing as an exercise in my master degree:
+As we value the impact of human behaviour during the development process for robustness reasons, we value the reproducibility of testing results in early development stages.
+
+Please provide a software, that delivers a demand speed as shown in the video depending on level of aggressiveness. Please also report theoretical (calculated) difference in energy consumption depending on vehicle parameter. 
+
+Please ask all your open questions you need for your development per mail latest 01.12.2023 17:45 to our technical sales Georg.Seewald@avl.com .
+We summarize all questions of all suppliers for a final clarification information letter for compliance reasons. 
+
+Based on that, we expect a quote including the operational concept of your solution, a delivery date and price per mail latest 14.12.2023 17:00 also to Georg.Seewald@avl.com .
+
+When testing an engine, a powertrain or a vehicle fully automated on a testbed in a 24/7 operation, the utilization of a human driver is an organizational task, that shall be avoided.
+
+Please extract the infos from the picture attached.
+
+First tests with a standard PID controller following the demand speed trace showed significant difference of the energy consumption compared to a human driver, because a human driver uses short cuts, that are not well enough specified in the regulation to be forbidden.
+
+What I did understand is:
+- We should make a system that gets at the input the tolerance ranges, like in the picture (blue dotted lines)and our system should output the simulated driver lines (green in the picture) depending on the aggressive level of driving.
+
+Please prepare me several questions I could make to the costumer in a formal way to be able to implement the requested code, include also the following:
+- What type of input data do we get, with what can we test the system?
+- HOw does the interface of the developed software have to look like?
+
+
+

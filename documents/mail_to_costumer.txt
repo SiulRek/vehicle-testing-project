@@ -1,0 +1,43 @@
+Dear Mr. Seewald,
+
+Thanks for the opportunity to contribute on your companies projects. We would glad to get answer to the following questions:
+
+What range should we use for the "level of aggressiveness," and how should it change the demand speed?
+What kind of data, like vehicle details and environmental conditions, will you give us for the demand speed settings?
+How should the "level of aggressiveness" reflect real driving? Are there specific patterns we should include?
+Could you tell us what you need for the software's input and output formats?
+What accuracy do you expect from our simulations, particularly when comparing energy use to a real driver?
+Are there any specific rules or standards the software needs to follow while we develop it?
+Which vehicle details are important for estimating energy use differences?
+Could you provide some initial data for us to start testing and adjusting our software?
+What are your needs for recording data, making reports, and how users will interact with the software?
+Do you want the software to work on specific platforms or systems, and what are the technical requirements for this?
+Are there special analysis tools or features you'd like to see in the software?
+If the software will connect to other systems or databases, can you describe what those are?
+What information do you expect after simulations, and how would you like it presented?
+How should the software respond when things don't go as planned during simulations?
+Can you describe the specific situations where you'll use the software? This will help us make sure it fits your needs.
+Are there any performance tests you want us to run on the software to make sure it works well?
+Will users need to log in to use the software, and should we add security for this?
+Are you able to provide us any help features or training materials built into the software?
+In the case of errors or interruptions, what steps would you like the software to take automatically?
+If there's a need for technical support or help with the software, what kind of assistance would be most useful for your team?
+Do you have any experience regarding the topic of the project you would like to share with us?
+
+
+Please provide your responses and any additional specifications as defined in the project timeline.
+
+We look forward to your detailed input to move start and complete the project successfully.
+
+Best regards,
+
+Luis Kraker
+Software Solutions Architect for ADM (Autonomous Driving Master),  Tech Park, Silicon Valley
+Email: luis.kraker@autonomous-driving-master.com 
+Phone: +1 (555) 123-4567
+
+
+
+
+
+
