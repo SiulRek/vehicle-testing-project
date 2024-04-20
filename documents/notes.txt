@@ -1,3 +1,2 @@
-
-
+We get a table with the following rows as an input low_speed_limit, high_speed_limit, driver_speed_at_aggressivness_level_0. The rows define the point in time. An additional input that we get is the level of aggressiveness of the test_driver. Output of our system is the test_driver_speed, that drives with a given level of aggressivness, in time. Do you got what the project is about and which algorithm could be used for the problem?
 
